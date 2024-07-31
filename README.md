@@ -1,4 +1,4 @@
-# Proyecto de Gestión de Empleados
+# Proyecto de Gestión de SQL con Lenguaje Natural
 
 Es un código simple de como generar SQL Queries con IA y ejecutarlos directamente, de esta forma poder controlar nuestra base de datos desde lenguaje natural con inteligencia artificial, utilizando GPT4o, Python y SQL Lite
 
@@ -26,4 +26,4 @@ Puedes ver el tutorial completo en YouTube: https://youtu.be/MTN7GUUgQ6w?si=ey7V
 
 ![Miniatura del video](https://img.youtube.com/vi/MTN7GUUgQ6w/maxresdefault.jpg)
 
-# Julio César - 07-2024
+## Julio César - 07-2024
