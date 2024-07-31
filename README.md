@@ -20,4 +20,10 @@ Es un código simple de como generar SQL Queries con IA y ejecutarlos directamen
 
 Para ejecutar el proyecto, abre el archivo `main.ipynb` en Jupyter Notebook o cualquier otro entorno compatible y ejecuta las celdas de código.
 
+# Tutorial de YouTube
+
+Puedes ver el tutorial completo en YouTube: https://youtu.be/MTN7GUUgQ6w?si=ey7VJXaZoTbq7qz4
+
+![Miniatura del video](https://img.youtube.com/vi/MTN7GUUgQ6w/maxresdefault.jpg)
+
 # Julio César - 07-2024
